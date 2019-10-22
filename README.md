@@ -1,1 +1,2 @@
-# wggallery-tutorial
+# Initial page
+

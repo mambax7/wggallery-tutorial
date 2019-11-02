@@ -1,4 +1,4 @@
-# Infofields
+# Albums
 
 For each person there are default fields like name, email, and so on \(see also see [Members](members.md)\). For usage with teams see [Relations](relations.md)
 

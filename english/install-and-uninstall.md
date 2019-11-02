@@ -1,4 +1,4 @@
-# Install/Uninstall
+# Install and uninstall
 
 No special measures necessary, follow the standard installation process – extract the module folder into the /modules directory. Install the module through Admin -&gt; Modules -&gt; Install Modules \(see below\). Detailed instructions on installing modules are available in the [XOOPS Operations Manual](http://goo.gl/adT2i).
 
@@ -8,7 +8,7 @@ No special measures necessary, follow the standard installation process – extr
 * Log in as admin and goto admin area
 * Install the module through Admin -&gt; Modules -&gt; Install Modules
 
-  ![](.gitbook/assets/1install.png)
+  ![](https://github.com/XoopsDocs/wggallery-tutorial/tree/7576e36a87af17e27b8072327a2cadd4e8d276b2/english/.gitbook/assets/1install.png)
 
   _Figure 2 Module administration and install_
 
@@ -20,5 +20,5 @@ No special measures necessary, follow the standard installation process – extr
 To uninstall the module, just click on the red arrow  
 _Figure 3 The Module Administration and un-install_
 
-![](.gitbook/assets/1uninstall.png)
+![](https://github.com/XoopsDocs/wggallery-tutorial/tree/7576e36a87af17e27b8072327a2cadd4e8d276b2/english/.gitbook/assets/1uninstall.png)
 

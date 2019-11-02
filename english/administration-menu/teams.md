@@ -1,4 +1,4 @@
-# Teams
+# Images
 
 You can define various teams, which you can later combine with one or more members.
 

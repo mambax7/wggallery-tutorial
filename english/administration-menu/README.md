@@ -5,7 +5,7 @@
 There are seven \(7\) menu options on top. These can be seen in the graphic below above the Module’s Administration tabs. The menu options available are described in the table below.
 
 | Option | Action |
-| --- | --- |
+| :--- | :--- |
 | Preferences | Here you can configure your preferences for the module |
 | Update | Click here if you’ve made some changes to the module, uploaded new files, etc. – this will recompile the module and update all entries in the database |
 | Blocks | When you click here, it will redirect you to the Blocks section of XOOPS, and select the blocks related to your module |
@@ -16,7 +16,7 @@ There are seven \(7\) menu options on top. These can be seen in the graphic belo
 
 ## 2.0.2 Dashboard
 
-On the dashboard you get a short overview about the functionalities and the content of the module. ![0dashboard1.png](https://github.com/xoops/wgteams-tutorial/tree/938384495c0c1e654d0971956486991fffaf5013/en/assets/0dashboard1.png)
+On the dashboard you get a short overview about the functionalities and the content of the module. ![0dashboard1.png](../../.gitbook/assets/0dashboard.png)
 
 ## 2.0.3 Functionalities for admins:
 

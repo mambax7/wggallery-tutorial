@@ -1,10 +1,12 @@
 # wgGallery Tutorial
 
-![logoModule.png](.gitbook/assets/logoModule.png)
+![logoModule.png](.gitbook/assets/logomodule.png)
 
-#### Version: 1.14 RC1
-#### for XOOPS 2.5.10+
-#### for PHP 7.0 +
+### Version: 1.14 RC1
+
+### for XOOPS 2.5.10+
+
+### for PHP 7.0 +
 
 ## User Manual
 
@@ -14,8 +16,7 @@
 
 This module is for presentation of your images in a gallery.
 
-You can defined various albums and combine different albums to a collection.
-This module supports:
+You can defined various albums and combine different albums to a collection. This module supports:
 
 All used templates on user side are fully responsive.
 
@@ -32,4 +33,5 @@ Unless specified, this content is licensed under a [Creative Commons Attribution
 
 All derivative works are to be attributed to XOOPS Project \(www.xoops.org\)
 
-##Tutorial Version: 1.0
+## Tutorial Version: 1.0
+

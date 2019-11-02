@@ -1,9 +1,8 @@
 # Preferences
 
-In the module preferences you can set various options for this module:  
+In the module preferences you can set various options for this module:
 
-
-![](.gitbook/assets/3preferences.png)
+![](https://github.com/XoopsDocs/wggallery-tutorial/tree/970974041b371931e9142e26945f03af9877c0f0/english/.gitbook/assets/3preferences.png)
 
 ## 3.1 Options in detail
 

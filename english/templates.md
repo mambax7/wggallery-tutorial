@@ -25,10 +25,10 @@ wgGallery contains following templates
 * wggallery\_imageitem\_2.tpl
 * wggallery\_images\_manage.tpl
 * wggallery\_gallery\_jssor.tpl
-* wggallery\_gallery\_jssor_arrows.tpl
-* wggallery\_gallery\_jssor_bullets.tpl
-* wggallery\_gallery\_jssor_thumbnails.tpl
-* wggallery\_gallery\_jssor_loadings.tpl
+* wggallery\_gallery\_jssor\_arrows.tpl
+* wggallery\_gallery\_jssor\_bullets.tpl
+* wggallery\_gallery\_jssor\_thumbnails.tpl
+* wggallery\_gallery\_jssor\_loadings.tpl
 * wggallery\_gallery\_viewerjs.tpl
 * wggallery\_gallery\_blueimpgallery.tpl
 * wggallery\_gallery\_justifiedgallery.tpl
@@ -62,3 +62,4 @@ wgGallery contains following templates
 * wggallery\_admin\_import.tpl
 * wggallery\_admin\_footer.tpl
 * wggallery\_admin\_categories.tpl
+

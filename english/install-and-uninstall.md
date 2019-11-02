@@ -4,7 +4,7 @@ No special measures necessary, follow the standard installation process – extr
 
 ## 1.1 Install
 
-* Extract folder 'wgteams' in your module directory
+* Extract folder 'wggallery' in your module directory
 * Log in as admin and goto admin area
 * Install the module through Admin -&gt; Modules -&gt; Install Modules
 

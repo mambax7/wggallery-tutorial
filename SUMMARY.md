@@ -2,7 +2,6 @@
 
 * [wgGallery Tutorial](README.md)
 * [English](english/README.md)
-  * [Introduction](introduction.md)
   * [Install and uninstall](english/install-and-uninstall.md)
   * [Install/Uninstall](install-uninstall.md)
   * [Administration Menu](administration-menu/README.md)

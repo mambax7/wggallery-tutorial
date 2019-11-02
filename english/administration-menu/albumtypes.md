@@ -1,4 +1,4 @@
-# Relations
+# Album Types
 
 If you have created teams and put in members and additional infofields, you can now make relations between all of this.
 

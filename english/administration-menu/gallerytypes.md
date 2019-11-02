@@ -1,4 +1,4 @@
-# Members
+# Gallery Types
 
 You can define various members, which you can later combine with one or more teams.
 

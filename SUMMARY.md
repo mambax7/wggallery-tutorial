@@ -5,7 +5,7 @@
   * [Install and uninstall](english/install-and-uninstall.md)
   * [Administration Menu](english/administration-menu/README.md)
     * [Albums](english/administration-menu/infofields.md)
-    * [Teams](english/administration-menu/teams.md)
+    * [Images](english/administration-menu/teams.md)
     * [Members](english/administration-menu/members.md)
     * [Relations](english/administration-menu/relations.md)
     * [About](english/administration-menu/about.md)

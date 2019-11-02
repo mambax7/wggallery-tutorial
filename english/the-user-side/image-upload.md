@@ -1,2 +1,2 @@
-# Album management
+# Image upload
 

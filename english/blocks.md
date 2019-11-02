@@ -1,7 +1,9 @@
 # Blocks
 
-wgTeams offers various blocks:
+wgGallery offers various blocks:
 
-* Team/Members block: Show all Teams with related members in block
-* Block Teams: Show a list of the teams
+* Block albums: 
+Show a defined number of albums in a block. It is possible to select recent or random albums. Depending on the settings in album types the display will change.
 
+* Block images: 
+Show a defined number of images in a block. It is possible to select recent or random albums. 

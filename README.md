@@ -1,10 +1,10 @@
 # wgGallery Tutorial
 
-![logoModule.png](.gitbook/assets/logomodule.png)
+![logoModule.png](.gitbook/assets/logoModule.png)
 
 #### Version: 1.14 RC1
-#### für XOOPS 2.5.10+
-#### für PHP 7.0 +
+#### for XOOPS 2.5.10+
+#### for PHP 7.0 +
 
 ## User Manual
 

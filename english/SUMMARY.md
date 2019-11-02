@@ -1,7 +1,6 @@
 # Table of contents
 * [Introduction](README.md)
 * [ENGLISH](README.md)
-	* [Introduction](introduction.md)
 	* [Install/Uninstall](install-uninstall.md)
 	* [Administration Menu](administration-menu/README.md)
 		* [Infofields](administration-menu/infofields.md)
@@ -19,7 +18,6 @@
 	* [About XOOPS CMS](about-xoops-cms.md)
 * [DEUTSCH](deutsch/README.md)
 	* [Inhaltsverzeichnis](deutsch/inhaltsverzeichnis.md)
-	* [Einleitung](deutsch/einleitung.md)
 	* [\(De-\)Installation](deutsch/de-installation.md)
 	* [Administrationsbereich](deutsch/administrationsbereich/README.md)
 		* [Infofelder](deutsch/administrationsbereich/infofelder.md)

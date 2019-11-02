@@ -1,33 +1,64 @@
 # Templates
 
-wgTeams contains following templates
+wgGallery contains following templates
 
 ## 7.1 User templates
 
-* wgteams\_breadcrumbs.tpl
-* wgteams\_footer.tpl
-* wgteams\_header.tpl
-* wgteams\_member\_default.tpl
-* wgteams\_member\_left.tpl
-* wgteams\_member\_right.tpl
-* wgteams\_members\_list.tpl
-* wgteams\_teams.tpl
-* wgteams\_teams\_list.tpl
+* wggallery\_header.tpl
+* wggallery\_index\_default.tpl
+* wggallery\_index\_hovereffectideas.tpl
+* wggallery\_index\_simple.tpl
+* wggallery\_index\_bcards.tpl
+* wggallery\_albums\_default.tpl
+* wggallery\_album\_images.tpl
+* wggallery\_albumitem\_1.tpl
+* wggallery\_albumitem\_2.tpl
+* wggallery\_albumitem\_hovereffectideas.tpl
+* wggallery\_albumitem\_simple.tpl
+* wggallery\_albumitem\_bcards.tpl
+* wggallery\_categoryitem\_1.tpl
+* wggallery\_categoryitem\_2.tpl
+* wggallery\_categoryitem\_hovereffectideas.tpl
+* wggallery\_categoryitem\_simple.tpl
+* wggallery\_categoryitem\_bcards.tpl
+* wggallery\_images\_default.tpl
+* wggallery\_imageitem\_2.tpl
+* wggallery\_images\_manage.tpl
+* wggallery\_gallery\_jssor.tpl
+* wggallery\_gallery\_jssor_arrows.tpl
+* wggallery\_gallery\_jssor_bullets.tpl
+* wggallery\_gallery\_jssor_thumbnails.tpl
+* wggallery\_gallery\_jssor_loadings.tpl
+* wggallery\_gallery\_viewerjs.tpl
+* wggallery\_gallery\_blueimpgallery.tpl
+* wggallery\_gallery\_justifiedgallery.tpl
+* wggallery\_gallery\_lightbox2.tpl
+* wggallery\_gallery\_lclightboxlite.tpl
+* wggallery\_breadcrumbs.tpl
+* wggallery\_rating\_img.tpl
+* wggallery\_rss.tpl
+* wggallery\_search.tpl
+* wggallery\_trigger\_uploads.tpl
+* wggallery\_upload.tpl
+* wggallery\_footer.tpl
 
 ## 7.2 Block templates
 
-* wgteams\_block\_teams.tpl
-* wgteams\_block\_teamsmembers.tpl
+* wggallery\_block\_albums\_default.tpl
+* wggallery\_block\_images\_default.tpl
 
 ## 7.3 Admin templates
 
-* wgteams\_admin\_about.tpl
-* wgteams\_admin\_footer.tpl
-* wgteams\_admin\_header.tpl
-* wgteams\_admin\_index.tpl
-* wgteams\_admin\_infofields.tpl
-* wgteams\_admin\_labels.tpl
-* wgteams\_admin\_members.tpl
-* wgteams\_admin\_relations.tpl
-* wgteams\_admin\_teams.tpl
-
+* wggallery\_admin\_about.tpl
+* wggallery\_admin\_header.tpl
+* wggallery\_admin\_index.tpl
+* wggallery\_admin\_albums.tpl
+* wggallery\_admin\_images.tpl
+* wggallery\_admin\_gallerytypes.tpl
+* wggallery\_admin\_albumtypes.tpl
+* wggallery\_admin\_watermarks.tpl
+* wggallery\_admin\_maintenance.tpl
+* wggallery\_admin\_permissions.tpl
+* wggallery\_admin\_import.tpl
+* wggallery\_admin\_footer.tpl
+* wggallery\_admin\_categories.tpl

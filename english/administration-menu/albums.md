@@ -1,60 +1,61 @@
 # Albums
 
-You can define various teams, which you can later combine with one or more members.
+You can define various albums, which you can combine with one or more others in a collection.
 
-## 2.2.1 List teams
+## 2.2.1 List albums
 
-On the dashboard tab 'teams' you see a list of the existing teams with the settings. ![](https://github.com/XoopsDocs/wgteams-tutorial/tree/75ee7f86cfecc5d6032c62399ee136cc7d100e98/assets/2admin_teams_list.png)
+On the dashboard tab 'albums' you see a list of the existing albums with the settings. ![](https://github.com/XoopsDocs/wgteams-tutorial/tree/75ee7f86cfecc5d6032c62399ee136cc7d100e98/assets/2admin_teams_list.png)
 
-If you use a list of several teams on user side, you can change ranking by drag & drop.
 
-## 2.2.2 Add new team
+## 2.2.2 Add new album
 
 ![](https://github.com/XoopsDocs/wgteams-tutorial/tree/75ee7f86cfecc5d6032c62399ee136cc7d100e98/assets/2admin_teams_add.png)
 
-## Team name
+## Album name
 
-You can define a team name. This name will be shown on user side.
+You can define an album name. This name will be shown on user side.
 
-## Team description
+## Album description
 
-You can provide additional information concerning a team, which will be shown on user side.
+You can provide additional information concerning an album, which will be shown on user side.
 
-## Team image
+## Album image
 
-You can use one image per team. This image will be shown on user side.
+You can use one image per album as album image. This image will be shown on user side.
+You can 
+* use an image from the album or from subalbums of the collection
+* create an image grid of images of the album
+* crop an image of the album
+* upload a new image
 
-## Nb cols
+For more information concerning album image see
 
-You can define, how many person will be shown in one row on user side.
+## State
 
-## Table styles
+You can set an album online or offline. Only if an album is online then users will see it on user side. If a submitter doesn't have the permission to set an album online then the album will get the state "Waiting for approval". Such an album must be set online by an authorized user.
 
-You can define a table style, which should be used on user side. Following options are available:
+## Permissions
+You can set following permissions for each group seperately:
+* Permissions to view
+* Permissions to download full album
+* Permissions to view/download large images
+* Permissions to view/download medium images
 
-* Default \(use default styles\)
-* Bordered \(Adds border on all sides of the table and cells\)
-* Striped \(Adds zebra-striping to any table row\)
-* Lined \(Add the rows a border top\)
+For more information concerning permissions see 
 
-## Image styles
+## Watermarks
 
-You can define a image style, which should be used on user side. Following options are available:
+You can define which watermark will be added to the uploaded images of this album.
 
-* Default \(use default image styles\)
-* Circle \(Shapes the image to a circle\)
-* Rounded \(Adds rounded corners to an image\)
-* Thumbnail \(Shapes the image to a thumbnail\)
+For more information concerning watermarks see
 
-## Position of member image
+## Categories
 
-You can define the position of image of the members, how it should be used on user side. Following options are available:
+You can define vaious categories, which you can link with images or albums and can classify your images. These categories can also used for targeted search.
 
-* Left \(on the left side\)
-* Default \(on the top\)
-* Right \(on the right side\)
+For more information concerning categories see
 
-## Online
+## Tags
 
-Define, whether a team should be shown on user side or not. You can create a team and make all relations to the members. If you have finished all, you can set online to 'Yes'.
+Each image or album can have various tags, which can also classify your images. These categories can also used for targeted search.
 

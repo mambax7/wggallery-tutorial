@@ -1,4 +1,4 @@
-# wgGallery Tutorial
+# ENGLISH
 
 ![logoModule.png](.gitbook/assets/logomodule.png)
 
@@ -26,3 +26,4 @@ _Figure 1: Main view of the wgTeams Module \(Admin side\)_
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 All derivative works are to be attributed to XOOPS Project \(www.xoops.org\)
+

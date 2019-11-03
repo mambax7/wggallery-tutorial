@@ -1,7 +1,6 @@
 # Maintenance
 
 On the dashboard tab 'Maintenance' wgGallery provides a comprehensive maintenance tool.
-
 ![Maintenance dashboard](../../.gitbook/assets/maintenance1.png)
 
 With this tool you can keep your module clean and executable. It provides:

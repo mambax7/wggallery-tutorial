@@ -4,7 +4,8 @@ You can define various albums, which you can combine with one or more others in 
 
 ### 1. List of albums
 
-On the dashboard tab 'albums' you see a list of the existing albums with the settings. ![](../../.gitbook/assets/admin_album.png)
+On the dashboard tab 'albums' you see a list of the existing albums with the settings.
+![List of albums](../../.gitbook/assets/admin_album.png)
 
 ### 2. Add new/edit album
 

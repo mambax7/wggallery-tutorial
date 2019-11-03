@@ -1,2 +1,0 @@
-# Options for image upload
-

@@ -7,7 +7,7 @@ The album type will be used for displaying
 * on index page
 * in blocks
 
-### 1. List of album types
+## 1. List of album types
 
 On the dashboard tab 'Album types' you see a list of the existing album types with the settings.
 

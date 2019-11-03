@@ -2,11 +2,11 @@
 
 You can define various albums, which you can combine with one or more others in a collection.
 
-### 1. List albums
+### 1. List of albums
 
 On the dashboard tab 'albums' you see a list of the existing albums with the settings. ![](../../.gitbook/assets/admin_album.png)
 
-### 2. Add new album
+### 2. Add new/edit album
 
 ![Creation of new album](../../.gitbook/assets/admin_album_create.png)
 
@@ -27,7 +27,7 @@ You can use one image per album as album image. This image will be shown on user
 * crop an image of the album
 * upload a new image
 
-For more information concerning album image see[ ](../the-user-side/album-image.md)[Album image](../the-user-side/album-image.md).
+For more information concerning album image see [Album image](../the-user-side/album-image.md).
 
 #### 2.4. State
 

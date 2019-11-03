@@ -14,14 +14,12 @@ On the dashboard tab 'Album types' you see a list of the existing album types wi
 ![](../../.gitbook/assets/albumtypes1.png)
 
 Following album types are implemented currently:
-
 * Default album style
 * Simple Album
 * Hover Effect Ideas
 * Bootstrap Cards
 
 For each album type you have different possibities to customize it according your wishes. You can e.g. decide:
-
 * Number of columns per row
 * Showing image infos \(like name, title,...\)
 * and many more

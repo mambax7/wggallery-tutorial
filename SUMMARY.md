@@ -20,7 +20,7 @@
     * [Options for display](english/preferences/options-for-display.md)
     * [Options for image processing](english/preferences/options-for-image-processing.md)
     * [Options for image upload](english/preferences/options-for-image-upload.md)
-    * [Misc options](english/preferences/misc.md)
+    * [Misc options](english/preferences/options-misc.md)
   * [Operating Instructions](english/operating-instructions.md)
   * [The User Side](english/the-user-side/README.md)
     * [Uploading images](english/the-user-side/uploading-images.md)

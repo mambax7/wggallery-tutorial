@@ -5,6 +5,7 @@ You can define various different gallery types. Depending on your selection and 
 ### 1. List of gallery types
 
 On the dashboard tab 'Gallery Types' you see a list of the existing gallery types with the settings.
+
 ![List of gallery types](../../.gitbook/assets/gallerytypes1.png)
 
 Following gallery types are implemented currently:

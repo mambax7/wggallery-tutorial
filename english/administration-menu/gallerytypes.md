@@ -1,21 +1,28 @@
 # Gallery Types
 
-You can define various members, which you can later combine with one or more teams.
+You can define various different gallery types. Depending on your selection and your settings the images will be shown in one of the slideshows \(gallery types\).
 
-## 2.3.1 List members
+### 1. List of galley types
 
-On the dashboard tab 'members' you see a list of the existing members with the settings. ![](https://github.com/XoopsDocs/wgteams-tutorial/tree/75ee7f86cfecc5d6032c62399ee136cc7d100e98/assets/2admin_members_list.png)
+On the dashboard tab 'Gallery Types' you see a list of the existing gallery types with the settings.
 
-## 2.3.2 Add/edit members
+ ![](../../.gitbook/assets/gallerytypes1.png)
 
-![](https://github.com/XoopsDocs/wgteams-tutorial/tree/75ee7f86cfecc5d6032c62399ee136cc7d100e98/assets/2admin_members_add.png)
+Following gallery types are implemented currently:
 
-Besides the name you can define following default information for each person:
+* Lightbox2
+* Justified Gallery with Colorbox
+* ViewerJs
+* Jssor
+* LC Lightbox LITE
 
-* Title
-* Address
-* Phone
-* Email
+For each gallery type you have different possibities to customize it according your wishes. You can e.g. decide:
 
-This information will be used in each team. Additionally you can upload one picture for each person.
+* Source of images
+* showing image infos \(like name, title,...\)
+* Autoplay
+* Slideshow speed
+* and many more
+
+For implementation of new galleries exhausting knowlegde is required, therefore there is no add button.
 

@@ -1,26 +1,30 @@
 # Album Types
 
-If you have created teams and put in members and additional infofields, you can now make relations between all of this.
+You can define various different album types. Depending on your selection and your settings the albums will be shown in different ways of displaying.
 
-## 2.4.1 List relations
+The album type will be used for displaying
 
-On the dashboard tab 'relations' you see a list of the existing relations with the settings. ![](https://github.com/XoopsDocs/wgteams-tutorial/tree/75ee7f86cfecc5d6032c62399ee136cc7d100e98/assets/2admin_relations_list.png)
+* on index page
+* in blocks
 
-The ranking of the relations on user side can be changed by drag & drop.
+### 1. List of album types
 
-## 2.4.2 Add/edit relations
+On the dashboard tab 'Album types' you see a list of the existing album types with the settings. 
 
-![](https://github.com/XoopsDocs/wgteams-tutorial/tree/75ee7f86cfecc5d6032c62399ee136cc7d100e98/assets/2admin_relations_add.png)
+![](../../.gitbook/assets/albumtypes1.png)
 
-## Teams and members
+Following album types are implemented currently:
 
-Define the team and person, which should be linked.
+* Default album style
+* Simple Album
+* Hover Effect Ideas
+* Bootstrap Cards
 
-## Infofields
+For each album type you have different possibities to customize it according your wishes. You can e.g. decide:
 
-Additional you can use 5 infofield, which will be shown on user side for this relation.
+* Number of columns per row
+* Showing image infos \(like name, title,...\)
+* and many more
 
-## Weight
-
-You can define the ranking of the members on user side.
+For implementation of new album types exhausting knowlegde is required, therefore there is no add button.
 

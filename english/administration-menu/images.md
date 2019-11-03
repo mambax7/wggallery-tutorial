@@ -1,12 +1,18 @@
 # Images
 
-For each person there are default fields like name, email, and so on \(see also see [Members](gallerytypes.md)\). For usage with teams see [Relations](albumtypes.md)
+Each image must be uploaded to a specific album. It is not possible toupload an image and link it later to different albums.
 
-## 2.1.1 List infofields
+For more details concerning image upload see [Uploading images](../the-user-side/uploading-images.md).
 
-On the dashboard tab 'infofields' you see a list of the existing infofields. ![](https://github.com/XoopsDocs/wgteams-tutorial/tree/20ebc8ef689afce0df682fd4cec9cfb2ba6574b0/.gitbook/assets/infofields_list.png)
+### 1. List of images
 
-## 2.1.2 Add/edit infofield
+On the dashboard tab 'Images' you see a list of the images. In order to show the list you have to select an album first. ![](../../.gitbook/assets/adminimages1.png)
 
-![](https://github.com/XoopsDocs/wgteams-tutorial/tree/20ebc8ef689afce0df682fd4cec9cfb2ba6574b0/.gitbook/assets/infofields_add.png) You have only to define the field name. You can show the field name also on user side.
+After you have selected an album all images of this album will be listed.
+
+![](../../.gitbook/assets/adminimages2.png)
+
+### 2. Add new image
+
+If you want to add an image the wgGallery will swith to [Uploading images](../the-user-side/uploading-images.md) on user side.
 

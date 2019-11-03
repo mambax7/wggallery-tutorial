@@ -1,6 +1,6 @@
 # Administration Menu
 
-## 2.0.1 Menu
+### 1. Menu
 
 There are seven \(7\) menu options on top. These can be seen in the graphic below above the Module’s Administration tabs. The menu options available are described in the table below.
 
@@ -14,16 +14,23 @@ There are seven \(7\) menu options on top. These can be seen in the graphic belo
 | Uninstall | Links to the module uninstall option, the same as clicking the “red arrow” on the module administration page |
 | Go to module | If the module is visible on the user side, this will take you there |
 
-## 2.0.2 Dashboard
+### 2. Dashboard
 
 On the dashboard you get a short overview about the functionalities and the content of the module. ![0dashboard1.png](../../.gitbook/assets/0dashboard.png)
 
-## 2.0.3 Functionalities for admins:
+### 3. Functionalities for admins:
 
-* [Infofields](https://github.com/xoops/wgteams-tutorial/tree/938384495c0c1e654d0971956486991fffaf5013/en/book/2admin_infofields.md)
-* [Teams](https://github.com/xoops/wgteams-tutorial/tree/938384495c0c1e654d0971956486991fffaf5013/en/book/2admin_teams.md)
-* [Members](https://github.com/xoops/wgteams-tutorial/tree/938384495c0c1e654d0971956486991fffaf5013/en/book/2admin_members.md)
-* [Relations](https://github.com/xoops/wgteams-tutorial/tree/938384495c0c1e654d0971956486991fffaf5013/en/book/2admin_relations.md)
-* [About](https://github.com/xoops/wgteams-tutorial/tree/938384495c0c1e654d0971956486991fffaf5013/en/book/2admin_about.md)
-* [Help](https://github.com/xoops/wgteams-tutorial/tree/938384495c0c1e654d0971956486991fffaf5013/en/book/2admin_help.md)
+* [Albums](albums.md)
+* [Album Types](albumtypes.md)
+* [Images](images.md)
+* [Gallery Types](gallerytypes.md)
+* [Album Types](albumtypes.md)
+* [Categories](categories.md)
+* [Watermarks](watermarks.md)
+* [Permissions](permissions.md)
+* [Maintenance](maintenance.md)
+* [Import](import.md)
+* [Feedback](feedback.md)
+* [About](about.md)
+* [Help](help.md)
 

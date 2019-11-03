@@ -2,23 +2,23 @@
 
 You can define various albums, which you can combine with one or more others in a collection.
 
-## 2.2.1 List albums
+### 1. List albums
 
 On the dashboard tab 'albums' you see a list of the existing albums with the settings. ![](../../.gitbook/assets/admin_album.png)
 
-## 2.2.2 Add new album
+### 2. Add new album
 
 ![Creation of new album](../../.gitbook/assets/admin_album_create.png)
 
-## Album name
+#### 2.1. Album name
 
 You can define an album name. This name will be shown on user side.
 
-## Album description
+#### 2.2. Album description
 
 You can provide additional information concerning an album, which will be shown on user side.
 
-## Album image
+#### 2.3. Album image
 
 You can use one image per album as album image. This image will be shown on user side. You can
 
@@ -27,13 +27,13 @@ You can use one image per album as album image. This image will be shown on user
 * crop an image of the album
 * upload a new image
 
-For more information concerning album image see 
+For more information concerning album image see[ ](../the-user-side/album-image.md)[Album image](../the-user-side/album-image.md).
 
-## State
+#### 2.4. State
 
 You can set an album online or offline. Only if an album is online then users will see it on user side. If a submitter doesn't have the permission to set an album online then the album will get the state "Waiting for approval". Such an album must be set online by an authorized user.
 
-## Permissions
+#### 2.5. Permissions
 
 You can set following permissions for each group seperately:
 
@@ -42,21 +42,21 @@ You can set following permissions for each group seperately:
 * Permissions to view/download large images
 * Permissions to view/download medium images
 
-For more information concerning permissions see [Permissions](permissions.md)
+For more information concerning permissions see [Permissions](permissions.md).
 
-## Watermarks
+#### 2.6. Watermarks
 
 You can define which watermark will be added to the uploaded images of this album.
 
-For more information concerning watermarks see [Watermarks](watermarks.md)
+For more information concerning watermarks see [Watermarks](watermarks.md).
 
-## Categories
+#### 2.7. Categories
 
 You can define vaious categories, which you can link with images or albums and can classify your images. These categories can also used for targeted search.
 
-For more information concerning categories see [Categories](categories.md)
+For more information concerning categories see [Categories](categories.md).
 
-## Tags
+#### 2.8. Tags
 
 Each image or album can have various tags, which can also classify your images. These categories can also used for targeted search.
 

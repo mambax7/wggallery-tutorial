@@ -4,21 +4,21 @@ You can define various categories, which you can used to classify for images or 
 
 The categories can also be used for targeted search \(see [Search](../the-user-side/search.md)\).
 
-### 1. List of categories
+## 1. List of categories
 
 On the dashboard tab 'Categories' you see a list of the existing categories with the settings.
 
 ![List of categories](../../.gitbook/assets/categories1.png)
 
-### 2. Add new/edit category
+## 2. Add new/edit category
 
 ![Add new or edit category](../../.gitbook/assets/categories2.png)
 
-#### 2.1. Category text
+### 2.1. Category text
 
 This text will be shown on user side.
 
-#### 2.2. Usage of category
+### 2.2. Usage of category
 
 You can decide for what the category will be used:
 

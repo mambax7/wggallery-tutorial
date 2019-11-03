@@ -1,6 +1,6 @@
 # Administration Menu
 
-### 1. Menu
+## 1. Menu
 
 There are seven \(7\) menu options on top. These can be seen in the graphic below above the Module’s Administration tabs. The menu options available are described in the table below.
 
@@ -14,13 +14,13 @@ There are seven \(7\) menu options on top. These can be seen in the graphic belo
 | Uninstall | Links to the module uninstall option, the same as clicking the “red arrow” on the module administration page |
 | Go to module | If the module is visible on the user side, this will take you there |
 
-### 2. Dashboard
+## 2. Dashboard
 
 On the dashboard you get a short overview about the functionalities and the content of the module.
 
 ![0dashboard1.png](../../.gitbook/assets/0dashboard.png)
 
-### 3. Functionalities for admins:
+## 3. Functionalities for admins:
 
 * [Albums](albums.md)
 * [Album Types](albumtypes.md)

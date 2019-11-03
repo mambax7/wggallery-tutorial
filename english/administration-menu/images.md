@@ -4,7 +4,7 @@ Each image must be uploaded to a specific album. It is not possible toupload an 
 
 For more details concerning image upload see [Uploading images](../the-user-side/uploading-images.md).
 
-### 1. List of images
+## 1. List of images
 
 On the dashboard tab 'Images' you see a list of the images. In order to show the list you have to select an album first.
 
@@ -14,7 +14,7 @@ After you have selected an album all images of this album will be listed.
 
 ![List of images per album](../../.gitbook/assets/adminimages2.png)
 
-### 2. Add new image
+## 2. Add new image
 
 If you want to add an image the wgGallery will switch to [Uploading images](../the-user-side/uploading-images.md) on user side.
 

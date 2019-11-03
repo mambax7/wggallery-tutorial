@@ -10,9 +10,9 @@ On the dashboard tab 'Images' you see a list of the images. In order to show the
 
 After you have selected an album all images of this album will be listed.
 
-![](../../.gitbook/assets/adminimages2.png)
+![List of images per album](../../.gitbook/assets/adminimages2.png)
 
 ### 2. Add new image
 
-If you want to add an image the wgGallery will swith to [Uploading images](../the-user-side/uploading-images.md) on user side.
+If you want to add an image the wgGallery will switch to [Uploading images](../the-user-side/uploading-images.md) on user side.
 

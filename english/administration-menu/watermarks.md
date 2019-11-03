@@ -10,13 +10,11 @@ You can link each album with another watermark.
 
 ### 1. List of watermarks
 
-On the dashboard tab 'Categories' you see a list of the existing categories with the settings.
-
- ![](../../.gitbook/assets/watermark1.png) 
+On the dashboard tab 'Categories' you see a list of the existing categories with the settings. ![List of watermarks](../../.gitbook/assets/watermark1.png) 
 
 ### 2. Add new/edit watermark
 
-![](../../.gitbook/assets/watermark2.png)
+![Add new or edit watermark](../../.gitbook/assets/watermark2.png)
 
 #### 2.1. Name
 

@@ -1,2 +1,2 @@
-# Preferences concerning upload
+# Options for image upload
 

@@ -2,11 +2,11 @@
 
 You can define various different gallery types. Depending on your selection and your settings the images will be shown in one of the slideshows \(gallery types\).
 
-### 1. List of galley types
+### 1. List of gallery types
 
 On the dashboard tab 'Gallery Types' you see a list of the existing gallery types with the settings.
 
- ![](../../.gitbook/assets/gallerytypes1.png)
+ ![List of gallery types](../../.gitbook/assets/gallerytypes1.png)
 
 Following gallery types are implemented currently:
 

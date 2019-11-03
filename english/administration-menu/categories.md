@@ -6,7 +6,8 @@ The categories can also be used for targeted search \(see [Search](../the-user-s
 
 ### 1. List of categories
 
-On the dashboard tab 'Categories' you see a list of the existing categories with the settings. ![List of categories](../../.gitbook/assets/categories1.png)
+On the dashboard tab 'Categories' you see a list of the existing categories with the settings.
+![List of categories](../../.gitbook/assets/categories1.png)
 
 ### 2. Add new/edit category
 

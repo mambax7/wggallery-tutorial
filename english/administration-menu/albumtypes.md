@@ -9,7 +9,8 @@ The album type will be used for displaying
 
 ### 1. List of album types
 
-On the dashboard tab 'Album types' you see a list of the existing album types with the settings. ![List of album types](../../.gitbook/assets/albumtypes1.png)
+On the dashboard tab 'Album types' you see a list of the existing album types with the settings.
+![List of album types](../../.gitbook/assets/albumtypes1.png)
 
 Following album types are implemented currently:
 

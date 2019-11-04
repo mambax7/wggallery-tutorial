@@ -52,6 +52,6 @@
   * [Benutzerbereich](deutsch/benutzerbereich.md)
   * [Blöcke](deutsch/bloecke.md)
   * [Templates](deutsch/templates.md)
-  * [Modul Credits](deutsch/modul-credits.md)
+  * [Modul Credits test](deutsch/modul-credits.md)
   * [About XOOPS CMS](deutsch/about-xoops-cms.md)
 

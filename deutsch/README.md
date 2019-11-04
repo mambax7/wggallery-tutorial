@@ -1,4 +1,4 @@
-# English
+# Deutsch
 
 ## wgGallery Tutorial
 

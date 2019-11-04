@@ -2,7 +2,7 @@
 
 ## wgGallery Tutorial
 
-![logoModule.png](https://github.com/XoopsDocs/wggallery-tutorial/tree/7576e36a87af17e27b8072327a2cadd4e8d276b2/english/.gitbook/assets/logoModule.png)
+![](../.gitbook/assets/logomodule.png)
 
 ### Version: 1.14 RC1
 

@@ -29,3 +29,9 @@ Album permissions will be applied for each album seperately.
 * Permissions to download full album \(groups which should have permissions to download the full album at once\) Permissions to view/download large images \(groups which should have permissions to view and download large images\) 
 * Permissions to view/download medium images \(groups which should have permissions to view and download medium images\)
 
+### 3. Collection permissions
+
+Collection permissions will be applied for each collection seperately.
+
+* Permissions to view \(groups which should have permissions to view an album\) 
+

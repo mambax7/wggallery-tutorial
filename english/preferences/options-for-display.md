@@ -44,10 +44,6 @@ Define whether you want to use categories for images and albums
 
 Define whether you want to use tags for images and albums
 
-## Save meta data \(exif\)
-
-Define whether you want to save the meta data \(exif\) of the images
-
 ## Exif data to display
 
 Define which exif data should be shown \(if 'Save meta data \(exif\)' is activated\)

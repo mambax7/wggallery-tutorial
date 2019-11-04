@@ -30,7 +30,7 @@ On the dashboard you get a short overview about the functionalities and the cont
 * [Categories](categories.md)
 * [Watermarks](watermarks.md)
 * [Permissions](permissions.md)
-* [Maintenance](maintenance.md)
+* [Maintenance](maintenance/)
 * [Import](import.md)
 * [Feedback](feedback.md)
 * [About](about.md)

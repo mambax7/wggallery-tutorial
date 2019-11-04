@@ -32,3 +32,7 @@ Set the max width to which uploaded images will be scaled for album images \(in 
 
 Set the max height to which uploaded images should be scaled for album images \(in pixel\) If you use an image of the album itself this option has no effect
 
+## Save meta data \(exif\)
+
+Define whether you want to save the meta data \(exif\) of the images
+

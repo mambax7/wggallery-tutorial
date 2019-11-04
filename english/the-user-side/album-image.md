@@ -7,8 +7,6 @@ wgGallery includes a comprehensive tool for selection/creation of an album image
 ### Current
 
 Tab current shows you current album image, if there is already one define.   
-![](../../.gitbook/assets/albumimage1.png)   
- 
 
 ![](../../.gitbook/assets/albumimage1.png)
 

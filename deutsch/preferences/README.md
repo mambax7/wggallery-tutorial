@@ -1,4 +1,4 @@
-# Preferences
+# Einstellungen
 
 In the module preferences you can set various options for this module:
 

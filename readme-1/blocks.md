@@ -1,4 +1,4 @@
-# Blocks
+# Blöcke
 
 wgGallery offers various blocks:
 

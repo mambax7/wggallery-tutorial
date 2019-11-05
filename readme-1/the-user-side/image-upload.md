@@ -8,7 +8,7 @@ wgGallery supports multifile upload. The upload tool handle the upload itself, b
 
 ![](../../.gitbook/assets/upload1.png)
 
-* Select your files by using your explorer \(click on "Select files"\) or with drag&drop into the drop zone.  ![](../../.gitbook/assets/important.png) Important: there is no file limit from wgGallery, how many files you want to upload at once, but you are limited maybe by the system settings \(php settings\). You can check your settings under maintenance [System check](../administration-menu/maintenance/system-check.md)
+* Select your files by using your explorer \(click on "Select files"\) or with drag&drop into the drop zone.  ![](../../.gitbook/assets/important.png) Important: there is no file limit from wgGallery, how many files you want to upload at once, but you are limited maybe by the system settings \(php settings\). You can check your settings under maintenance [System check]()
 * After adding the files wgGallery checks the images whether they are fullfilling the conditions:
 
   * Is the allowed maximum size exceeded?
@@ -22,7 +22,7 @@ wgGallery supports multifile upload. The upload tool handle the upload itself, b
 * Processes during upload
   * Storing original image \(if selected in preferences [Options for image upload](../preferences/options-for-image-upload.md)\)
   * Resizing image corresponding settings in preferences [Options for image upload](../preferences/options-for-image-upload.md)
-  * Adding watermark, if a watermark is linked with current album \(see [Albums](../administration-menu/albums.md) and [Watermarks](../administration-menu/watermarks.md)\)
+  * Adding watermark, if a watermark is linked with current album \(see [Albums]() and [Watermarks]()\)
   * saving different types \(large, medium, thumb\) of images in upload directory
   * reading information of image
     * size
@@ -35,7 +35,7 @@ wgGallery supports multifile upload. The upload tool handle the upload itself, b
 
 After uploading the images you can goto
 
-* [Image index](image-index.md) in order to check all images
+* [Image index]() in order to check all images
 * [Image management](image-management.md) in order to check/change sorting of images
 * [Album image](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-Lsp6ZJlrSkVXk5zy3up/english/the-user-side/album-image) in order to select an image as album image
 

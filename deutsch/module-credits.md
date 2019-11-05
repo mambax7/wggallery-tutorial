@@ -6,8 +6,8 @@ This module was created with TDMCreate.
 
 TDMCreate from TDM Team  
 Modified by Timgno \([http://www.txmodxoops.org](http://www.txmodxoops.org)\)  
-Contributors: Mamba \([http://www.xoops.org](http://www.xoops.org)\), Goffy \(German Xoops\)  
-Included ideas for Logo Generator from Trabis \(Publisher module\) and Suin \(Koins module\)
+Contributors:  Goffy \(German Xoops\), Mamba \([http://www.xoops.org](http://www.xoops.org)\), Mage \([https://xoops.org](https://xoops.org)\), geekwright \([https://xoops.org](https://xoops.org)\)  
+
 
 Gallery types:
 

@@ -1,5 +1,7 @@
 # Installieren und Deinstallieren
 
+test
+
 No special measures necessary, follow the standard installation process – extract the module folder into the /modules directory. Install the module through Admin -&gt; Modules -&gt; Install Modules \(see below\). Detailed instructions on installing modules are available in the [XOOPS Operations Manual](http://goo.gl/adT2i).
 
 ## 1. Install

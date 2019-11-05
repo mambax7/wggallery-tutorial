@@ -1,4 +1,4 @@
-# The User Side
+# Benutzerseite
 
 On user side you get an overview from all albums and collection, which are online currently.
 

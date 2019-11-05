@@ -1,4 +1,4 @@
-# Operating Instructions
+# Bedienungsanleitung
 
 For presenting an album with images do following:
 

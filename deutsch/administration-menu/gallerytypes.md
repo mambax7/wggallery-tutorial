@@ -1,4 +1,4 @@
-# Galerietypen
+# Gallery Types
 
 You can define various different gallery types. Depending on your selection and your settings the images will be shown in one of the slideshows \(gallery types\).
 

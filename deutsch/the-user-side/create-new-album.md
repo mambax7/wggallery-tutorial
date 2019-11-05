@@ -1,4 +1,4 @@
-# Neues Album erstellen
+# Create new album
 
 ## 1. Steps for creation of album/collection
 

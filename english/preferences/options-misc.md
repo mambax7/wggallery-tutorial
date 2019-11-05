@@ -1,4 +1,4 @@
-# Sonstige Optionen
+# Misc options
 
 ## Editor
 

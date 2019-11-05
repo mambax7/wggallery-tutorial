@@ -8,9 +8,7 @@ No special measures necessary, follow the standard installation process – extr
 * Log in as admin and goto admin area
 * Install the module through Admin -&gt; Modules -&gt; Install Modules
 
-  ![](../.gitbook/assets/install.png)
-
-  _Figure 2 Module administration and install_
+  ![Module administration and install](../.gitbook/assets/install.png)
 
 * configure the module
 * the next steps are setting the rights under System --&gt; Groups.
@@ -19,7 +17,4 @@ No special measures necessary, follow the standard installation process – extr
 
 To uninstall the module, just click on the red arrow
 
-![](../.gitbook/assets/uninstall.png)
-
-_Figure 3 The Module Administration and un-install_
-
+![The Module Administration and un-install](../.gitbook/assets/uninstall.png)

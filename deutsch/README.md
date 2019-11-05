@@ -1,39 +1,70 @@
 # Deutsch
 
-## wgGallery Tutorial
+![](.gitbook/assets/logomodule.png)
 
-![](../.gitbook/assets/logomodule.png)
+#### Version: 1.14 RC1
 
-### Version: 1.14 RC1
+#### for XOOPS 2.5.10+
 
-### für XOOPS 2.5.10+
-
-### für PHP 7.0 +
+#### for PHP 7.0 +
 
 ## User Manual
 
 © 2019 The XOOPS Project \(www.xoops.org\)
 
-## Modul Zweck
+## Modulinfo
 
-Dieses Modul dient zur Präsentation Ihrer Bilder in einer Galerie.
+Dieses Modul dient zur Präsentation von Bildern in einer Galerie.
 
-You can defined various albums and combine different albums to a collection. This module supports:
+Sie können verschiedene Alben definieren und Alben in einer Albensammlung kombinieren. 
 
-All used templates on user side are fully responsive.
+Dieses Modul unterstützt:
+* automatisches Verkleinern von Bildern auf vordefinierte Werte für Breite/Höhe
+* Multiupload mittels drag&drop
+* erweitertes Album- und Bildermanagement (sortieren mit drag&drop)
+* Das Modul enthalt eine völlig neues Bildbearbeitungsprogramm
+  * automatisches Verkleinern des Bildes auf vordefinierte Breite/Höhe
+  * Einfaches Erstellen von Bildercollagen
+  * Einfaches Zuschneiden von Bildern
+* verschiedene Albumstyles verfügbar, und alle Vorlagen haben unzählige Möglichkeiten zum Anpassen ihrer individuellen Indexseite oder der Blöcke
+  * default
+  * simple
+  * hover effects
+  * bootstrap cards
+* verschiedene Galerietypen verfügbar, und alle Galerien haben unzählige Möglichkeiten zum Erstellen ihrer individuellen Galerie
+  * Lightbox2
+  * Justified Gallery with Colorbox
+  * ViewerJs
+  * Jssor
+  * LC Lightbox LITE
+* Verwendung von Wasserzeichen
+  * als Textwasserzeichen
+  * als Bildwasserzeichen
+* Möglichkeit zum Zusammenfassen von Alben zu Kategorien
+* Möglichkeit zum Setzen der Berechtigungen für je Album/Kategorie
+  * Berechtigung zum Ansehen
+  * Berechtigungen zum Download mittlerer oder großer Bilder
+* basierend auf bootstrap (für korrekte Anzeige muss daher ein Bootstrap Theme verwendet werden)
+* Wartungstools
+* Feedbacktool
+* Importtool für
+  * eXtGallery
+  * TDMPicture
+* Speichern der EXIF-Daten möglich
 
-**This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
+Alle verwendeten Templates auf der Benutzerseite sind voll Responsive.
 
-_Figure 1: Main view of the wgGallery Module \(Admin side\)_
+**Dieses Modul funktioniert nur in Kombination mit einem Bootstrap Theme oder Sie müssen Bootstrap zusätzlich einbinden.**
 
-![0dashboard1.png](https://github.com/XoopsDocs/wggallery-tutorial/tree/7576e36a87af17e27b8072327a2cadd4e8d276b2/english/.gitbook/assets/0dashboard.png)
+![Beispiel einer Bildergalerie auf der Benutzerseite](.gitbook/assets/gallery1.png)
 
-## License:
+![Übersichtsseite im Adminbereich](.gitbook/assets/0dashboard.png)
+
+## Lizenz:
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
-Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Sofern nicht anders spezifiziert ist der Inhalt lizenziert unter [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \(www.xoops.org\)
+Alle Derivate sind ein Beitrag zum XOOPS Projekt \(www.xoops.org\)
 
 ## Tutorial Version: 1.0
-

@@ -2,8 +2,6 @@
 
 ![](../.gitbook/assets/logomodule.png)
 
-### test
-
 ### Version: 1.14 RC1
 
 ### for XOOPS 2.5.10+

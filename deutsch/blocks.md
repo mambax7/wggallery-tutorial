@@ -8,5 +8,3 @@ wgGallery offers various blocks:
 
 * Block images: Show a defined number of images in a block. It is possible to select recent or random albums.
 
-![Example: Block images - style default](../.gitbook/assets/grafik%20%283%29.png)
-

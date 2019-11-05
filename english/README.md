@@ -24,9 +24,9 @@ All used templates on user side are fully responsive.
 
 **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
-![Example of image gallery on user side](.gitbook/assets/gallery1.png)
+_Figure 1: Main view of the wgGallery Module \(Admin side\)_
 
-![Dashboard on admin side](.gitbook/assets/0dashboard.png)
+![0dashboard1.png](https://github.com/XoopsDocs/wggallery-tutorial/tree/7576e36a87af17e27b8072327a2cadd4e8d276b2/english/.gitbook/assets/0dashboard.png)
 
 ## License:
 

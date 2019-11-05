@@ -16,7 +16,41 @@
 
 This module is for presentation of your images in a gallery.
 
-You can defined various albums and combine different albums to a collection. This module supports:
+You can defined various albums and combine different albums to a collection. 
+
+This module supports:
+* automatic resizing of images to predefined width/height
+* multi upload with drag&drop
+* enhanced album and image management (sorting by drag&drop)
+* the module contains now a completely new image editor
+  * automatic resizing of images to predefined width/height
+  * easy creation of grid images
+  * easy cropping of images
+* various album styles, and all album styles have a lot of possible settings to customize your index page and blocks
+  * default
+  * simple
+  * hover effects
+  * bootstrap cards
+* various gallery types, and all gallery types have a lot of possible settings to customize your gallery
+  * Lightbox2
+  * Justified Gallery with Colorbox
+  * ViewerJs
+  * Jssor
+  * LC Lightbox LITE
+* watermarks can be used
+  * text watermark
+  * image watermark
+* possibility to combine albums to a category
+* permission settings for each album/category
+  * permission to view
+  * permission to download large or mmedium images
+* based on bootstrap (for proper showing a bootstrap theme is obligatory)
+* maintenance tools
+* feedback tool
+* import tool for
+  * eXtGallery
+  * TDMPicture
+* storage of EXIF data possible
 
 All used templates on user side are fully responsive.
 

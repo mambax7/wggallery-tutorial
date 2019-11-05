@@ -1,4 +1,4 @@
-# Administration Menu
+# Administrationmenü
 
 ## 1. Menu
 
@@ -31,8 +31,8 @@ On the dashboard you get a short overview about the functionalities and the cont
 * [Watermarks](watermarks.md)
 * [Permissions](permissions.md)
 * [Maintenance](maintenance/)
-* [Import](import.md)
-* [Feedback](feedback.md)
+* [Import]()
+* [Feedback]()
 * [About](about.md)
 * [Help](help.md)
 

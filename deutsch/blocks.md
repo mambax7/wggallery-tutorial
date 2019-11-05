@@ -1,11 +1,10 @@
-# Blöcke
+# Blocks
 
-wgGallery bietet verschiedene Blöcke an:
+wgGallery offers various blocks:
 
-* Block Alben: Zeigt eine defnierte Anzahl an Alben in einem Block an. Es gibt die Möglichkeit z.B. zufällige oder die neuesten Alben anzeigen zu lassen. Abhängig von den Einstellungen in "Albumtypen" ändert sich auch die Ansicht der Blöcke. 
+* Block albums: Show a defined number of albums in a block. It is possible to select recent or random albums. Depending on the settings in album types the display will change. 
 
-![Example: Block Alben - Darstellung &quot;Bootstrap cards&quot;](../.gitbook/assets/blocks1.png)
+![Example: Block albums - style Bootstrap cards](../.gitbook/assets/blocks1.png)
 
-* Block Bilder: Zeigt eine defnierte Anzahl an Bildern in einem Block an. Es gibt die Möglichkeit z.B. zufällige oder die neuesten Bilder anzeigen zu lassen.
+* Block images: Show a defined number of images in a block. It is possible to select recent or random albums.
 
-![Example: Block Bilder - Darstellung &quot;default&quot; ](../.gitbook/assets/blocks2.png)

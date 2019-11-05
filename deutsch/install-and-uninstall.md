@@ -1,20 +1,27 @@
 # Installieren und Deinstallieren
 
-Es sind keine speziellen Maßnahmen erforderlich, führen Sie den Standardinstallationsprozess aus. Wenn Sie zustätzliche Informationen benötigen, lesen Sie die Installationshinweise unter [XOOPS Operations Manual](http://goo.gl/adT2i).
+test
 
-## 1 Installation
+No special measures necessary, follow the standard installation process – extract the module folder into the /modules directory. Install the module through Admin -&gt; Modules -&gt; Install Modules \(see below\). Detailed instructions on installing modules are available in the [XOOPS Operations Manual](http://goo.gl/adT2i).
 
-* Extrahieren Sie den Ordner 'wgsitenotice' in das Module-Verzeichnis
-* Loggen sie sich als Administrator und wechseln sie zur Xoops Administrationseite
-* Installieren Sie das Modul über Administration -&gt; Module -&gt; Module installieren
+## 1. Install
 
-  ![Die Moduladministration und Installation](../.gitbook/assets/install.png)
+* Extract folder 'wggallery' in your module directory
+* Log in as admin and goto admin area
+* Install the module through Admin -&gt; Modules -&gt; Install Modules
 
-* Konfigurieren sie das Modul 
-* Die nächsten Schritte sind nun die Rechteverwaltung des Modules und der Blöcke in System --&gt; Gruppen.
+  ![](../.gitbook/assets/install.png)
 
-## 2. Deinstallation
+  _Figure 2 Module administration and install_
 
-Zur Deinstallation klicken sie einfach auf den roten Pfeil
+* configure the module
+* the next steps are setting the rights under System --&gt; Groups.
 
-![Deinstallation in der Moduladministration](../.gitbook/assets/uninstall.png)
+## 2. Uninstall
+
+To uninstall the module, just click on the red arrow
+
+![](../.gitbook/assets/uninstall.png)
+
+_Figure 3 The Module Administration and un-install_
+

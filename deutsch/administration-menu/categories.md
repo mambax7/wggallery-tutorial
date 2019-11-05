@@ -1,8 +1,8 @@
-# Categories
+# Kategorien
 
 You can define various categories, which you can used to classify for images or your albums.
 
-The categories can also be used for targeted search \(see [Search](../the-user-side/search.md)\).
+The categories can also be used for targeted search \(see [Search]()\).
 
 ## 1. List of categories
 

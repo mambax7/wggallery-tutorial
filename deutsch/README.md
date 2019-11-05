@@ -6,17 +6,17 @@
 
 ### Version: 1.14 RC1
 
-### for XOOPS 2.5.10+
+### für XOOPS 2.5.10+
 
-### for PHP 7.0 +
+### für PHP 7.0 +
 
 ## User Manual
 
-© 2014 The XOOPS Project \(www.xoops.org\)
+© 2019 The XOOPS Project \(www.xoops.org\)
 
-## Module Purpose
+## Modul Zweck
 
-This module is for presentation of your images in a gallery.
+Dieses Modul dient zur Präsentation Ihrer Bilder in einer Galerie.
 
 You can defined various albums and combine different albums to a collection. This module supports:
 

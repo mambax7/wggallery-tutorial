@@ -6,7 +6,7 @@ This module was created with TDMCreate. TDMCreate from TDM Team
 Modified by Timgno \([http://www.txmodxoops.org](http://www.txmodxoops.org)\)
 
   
-Module contributors:  Goffy \(German Xoops\), Mamba \([http://www.xoops.org](http://www.xoops.org)\), Mage \([https://xoops.org](https://xoops.org)\), geekwright \([https://xoops.org](https://xoops.org)\)  
+Module contributors:  Goffy \(German Xoops\), Mamba \([http://www.xoops.org](http://www.xoops.org)\), Mage \([https://xoops.org](https://xoops.org)\), geekwright \([https://xoops.org](https://xoops.org)\), Lupin \([https://xoops.org](https://xoops.org)\)  
 
 
 Gallery types:

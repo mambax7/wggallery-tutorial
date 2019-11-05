@@ -1,7 +1,7 @@
 # Table of contents
 
 * [wgGallery Tutorial](README.md)
-* [English](README.md)
+* [English](english/README.md)
   * [Install and uninstall](english/install-and-uninstall.md)
   * [Administration Menu](english/administration-menu/README.md)
     * [Albums](english/administration-menu/albums.md)

@@ -66,5 +66,3 @@ For final selection please click on "Apply".
 
 Last possibility is to upload a new image or use one of the images in directory /uploads/wggallery/images/albums/.
 
-![](../../.gitbook/assets/grafik%20%281%29.png)
-

@@ -1,4 +1,4 @@
-# Wartungen
+# Maintenance
 
 On the dashboard tab 'Maintenance' wgGallery provides a comprehensive maintenance tool.
 

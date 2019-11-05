@@ -1,6 +1,4 @@
-# Alben
-
-test
+# Albums
 
 You can define various albums, which you can combine with one or more others in a collection.
 

@@ -44,11 +44,11 @@ Define the groups with permission to view/download medium images of this album. 
 
 ### Watermark
 
-If the watermarks have to be selected for each album seperately then you can select one of existing watermarks. For more information see also [Watermarks]()
+If the watermarks have to be selected for each album seperately then you can select one of existing watermarks. For more information see also [Watermarks](../administration-menu/watermarks.md)
 
 ### Select categories
 
-If you are using categories then you can select one or more categories which classify your album. For more information see also [Categories]()
+If you are using categories then you can select one or more categories which classify your album. For more information see also [Categories](../administration-menu/categories.md)
 
 ### Enter tags
 

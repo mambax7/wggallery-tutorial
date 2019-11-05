@@ -17,3 +17,9 @@ For each image you can \(if you have the permission\)
 * Rotate left or right
 * Download: depending your settings in [Permissions](https://app.gitbook.com/@xoops/s/wggallery-tutorial/~/edit/drafts/-Lsp6ZJlrSkVXk5zy3up/english/administration-menu/permissions) the large or medium image will be provided for download
 
+![Example: show image on new page](../../.gitbook/assets/imageindex2.png)
+
+![Example: show image as modal without information](../../.gitbook/assets/imageindex3.png)
+
+![Example: show image as modal with information](../../.gitbook/assets/imageindex4.png)
+
